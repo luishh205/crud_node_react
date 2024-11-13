@@ -1,8 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api\\controllers",
-    "\\api\\routes",
     "\\frontend",
     "\\frontend\\public",
     "\\frontend\\src",
